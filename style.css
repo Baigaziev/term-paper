@@ -2,3 +2,10 @@
 * {
   box-sizing: border-box;
 }
+a {
+  color: #121722;
+  text-decoration: none;
+}
+.header {
+  display: flex;
+}
