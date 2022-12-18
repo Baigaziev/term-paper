@@ -2,10 +2,7 @@
 * {
   box-sizing: border-box;
 }
-a {
-  color: #121722b2;
-  text-decoration: none;
-}
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -17,14 +14,24 @@ a {
   width: 104px;
   height: 24px;
 }
+.header__item.headerButton a {
+  text-decoration: none;
+  color: rgba(18, 23, 34, 0.7);
+}
+.header__item.headerButton2 {
+  color: #4058ff;
+  text-decoration: none;
+  background-color: rgba(64, 140, 255, 0.1);
+  border-radius: 20px;
+  
+}
+
+
 .header__section {
   display: flex;
   align-items: center;
-  
-  
 }
 .header__item {
   padding: 25px;
   font-size: 16px;
-  
 }
