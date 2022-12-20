@@ -64,6 +64,7 @@ html {
   color: #121722;
   font-size: 40px;
   margin-top: 80px;
+  font-weight: normal;
 }
 .title p {
   margin-top: -15px;
@@ -74,9 +75,9 @@ html {
   line-height: 27px;
   color: gray;
   line-height: 22px;
-  
 }
-.header-img {
-  height: 200px;
-  
+.title .button {
+  background: #4058ff;
+  border-radius: 100px;
+  border-color: #4058ff;
 }
