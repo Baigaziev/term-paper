@@ -10,7 +10,7 @@ html {
 .header {
   max-width: 960px;
   display: flex;
-  
+
   justify-content: space-between;
   padding: 24px;
   background: rgba(255, 255, 255, 0.95);
@@ -50,22 +50,33 @@ html {
 .container {
   max-width: 1100px;
   display: flex;
-  
-  
 }
 .header-start {
- display: flex;
- justify-content: center;
- align-items: center;
- margin-top: 120px;
-  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 70px;
 }
 .button {
-  
 }
-.title h1{
-  font-family: 'Roboto', sans-serif;
+.title h1 {
+  font-family: "Roboto", sans-serif;
   color: #121722;
   font-size: 40px;
+  margin-top: 80px;
+}
+.title p {
+  margin-top: -15px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 27px;
+  color: gray;
+  line-height: 22px;
+  
+}
+.header-img {
+  height: 200px;
   
 }
