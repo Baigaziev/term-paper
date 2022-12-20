@@ -8,10 +8,9 @@ html {
 }
 
 .header {
-  max-width: 960px;
   display: flex;
-
   justify-content: space-between;
+  align-items: center;
   padding: 24px;
   background: rgba(255, 255, 255, 0.95);
   font-family: "Roboto", sans-serif;
@@ -80,4 +79,9 @@ html {
   background: #4058ff;
   border-radius: 100px;
   border-color: #4058ff;
+}
+
+.main {
+}
+.subject {
 }
