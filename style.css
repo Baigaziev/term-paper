@@ -24,8 +24,8 @@ html {
   color: rgba(18, 23, 34, 0.7);
 }
 .header__item.headerButton .text_border {
-  color: #4058ff;
-  text-decoration: none;
+  color: #7280dd;
+  
   background: rgba(64, 140, 255, 0.1);
   border-radius: 40px;
 }
@@ -69,19 +69,36 @@ html {
   margin-top: -15px;
   font-family: "Roboto", sans-serif;
   font-style: normal;
-  font-weight: 400;
   font-size: 16px;
-  line-height: 27px;
   color: gray;
   line-height: 22px;
 }
 .title .button {
+  color: white;
   background: #4058ff;
   border-radius: 100px;
   border-color: #4058ff;
+  width: 100px;
+  height: 25px;
 }
 
 .main {
+  flex: 0 auto;
 }
-.subject {
+.container_main {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 50px;
+}
+.subject h2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 22px;
+  color: #303746;
+  font-weight: lighter;
+}
+.subject p {
+  font-size: 15px;
+  line-height: 17px;
+  color: #4e5666;
 }
