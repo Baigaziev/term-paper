@@ -17,8 +17,6 @@ html {
   font-family: "Roboto", sans-serif;
 }
 .header__item.headerlogo img {
-  width: 104px;
-  height: 24px;
 }
 .header__item.headerButton a {
   text-decoration: none;
@@ -83,11 +81,8 @@ html {
   height: 25px;
 }
 .holder {
- 
-  
-}
-.row {
-  
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 .subject h2 {
@@ -104,51 +99,12 @@ html {
   color: #4e5666;
   text-align: center;
 }
-
-.row {
-  /* строка */
+.inner {
   display: flex;
-  flex-wrap: wrap;
-}
-[class^="col"] {
-  padding: 0 10px;
-}
-.col-1 {
-  flex: 8.3% 0 0;
-}
-.col-2 {
-  flex: 16.6% 0 0;
-}
-.col-3 {
-  flex: 25% 0 0;
+  margin-left: -30px;
   
+ 
 }
-
-.col-4 {
-  flex: 33.3% 0 0;
+.subject {
+  margin-bottom: 60px;
 }
-.col-5 {
-  flex: 41.6% 0 0;
-}
-.col-6 {
-  flex: 50% 0 0;
-}
-.col-7 {
-  flex: 58.3% 0 0;
-}
-.col-8 {
-  flex: 66.6% 0 0;
-}
-.col-9 {
-  flex: 75% 0 0;
-}
-.col-10 {
-  flex: 83% 0 0;
-}
-.col-11 {
-  flex: 91.6% 0 0;
-}
-.col-12 {
-  flex: 100% 0 0;
-}
-
