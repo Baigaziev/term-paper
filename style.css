@@ -111,15 +111,14 @@ html {
 }
 .inner {
   display: flex;
-  
-  height: 682px;
-left: 0%;
-right: 0%;
-top: 0px;
+  height: 100vh;
 
-background: #4058FF;
-border-radius: 16px;
-  
+  left: 0%;
+  right: 0%;
+  top: 0px;
+
+  background: #4058ff;
+  border-radius: 16px;
 }
 .subject {
   margin-bottom: 60px;
@@ -128,7 +127,7 @@ border-radius: 16px;
 
 .subject__content h2 {
   padding-top: 40px;
-  
+
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -146,6 +145,4 @@ border-radius: 16px;
   line-height: 29px;
 }
 .subject__content2 img {
-  
-
 }
