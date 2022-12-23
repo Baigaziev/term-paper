@@ -46,8 +46,15 @@ html {
   font-size: 16px;
 }
 .container {
-  max-width: 1280px;
+  max-width: 1200px;
   display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
 }
 .header-end {
   display: flex;
@@ -56,6 +63,9 @@ html {
   margin-top: 70px;
 }
 .button {
+}
+.title {
+  max-width: 300px;
 }
 .title h1 {
   font-family: "Roboto", sans-serif;
@@ -101,7 +111,15 @@ html {
 }
 .inner {
   display: flex;
-  background-color: #4058FF;
+  
+  height: 682px;
+left: 0%;
+right: 0%;
+top: 0px;
+
+background: #4058FF;
+border-radius: 16px;
+  
 }
 .subject {
   margin-bottom: 60px;
@@ -127,8 +145,7 @@ html {
   font-size: 15px;
   line-height: 29px;
 }
-.row {
-  display: flex;
-  justify-content: space-between;
-  width: 100%;
+.subject__content2 img {
+  
+
 }
