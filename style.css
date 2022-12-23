@@ -46,7 +46,7 @@ html {
   font-size: 16px;
 }
 .container {
-  max-width: 1100px;
+  max-width: 1200px;
   display: flex;
 }
 .header-end {
@@ -101,11 +101,27 @@ html {
 }
 .inner {
   display: flex;
+
   margin-left: -30px;
-  
- 
 }
 .subject {
   margin-bottom: 60px;
-  
+  font-family: "Roboto";
+}
+
+.subject__content h2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 38px;
+}
+
+.subject__content .paragraph {
+  margin-top: -10px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 29px;
 }
