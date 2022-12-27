@@ -137,12 +137,13 @@ html {
 }
 
 .subject__content .paragraph {
-  margin-top: -10px;
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 29px;
+max-width: 250px;
+  font-family: 'Roboto';
+  margin-top: -15px;
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+color: #E8F1FF;
 }
 .subject__content {
   height: 500px;
