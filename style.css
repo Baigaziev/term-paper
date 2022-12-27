@@ -99,7 +99,7 @@ html {
   font-family: "Roboto", sans-serif;
   font-size: 22px;
   color: #303746;
-  
+
   text-align: center;
   margin-top: 50px;
 }
@@ -113,8 +113,6 @@ html {
   display: flex;
   align-items: center;
   height: 510px;
-
- 
 
   background: #4058ff;
   border-radius: 16px;
@@ -137,27 +135,24 @@ html {
 }
 
 .subject__content .paragraph {
-max-width: 250px;
-  font-family: 'Roboto';
-  margin-top: -15px;
-font-style: normal;
-font-weight: 400;
-font-size: 17px;
-color: #E8F1FF;
-}
-.subject__content {
-  height: 500px;
- 
-  
-}
-.subject__content .lead {
   max-width: 250px;
-  font-family: 'Roboto';
+  font-family: "Roboto";
+  margin-top: -15px;
   font-style: normal;
   font-weight: 400;
   font-size: 17px;
-  color: #E8F1FF;
-
+  color: #e8f1ff;
+}
+.subject__content {
+  height: 500px;
+}
+.subject__content .lead {
+  max-width: 250px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  color: #e8f1ff;
 }
 .subject__content2 img {
   margin-left: 150px;
@@ -168,5 +163,4 @@ color: #E8F1FF;
 .subject__content .img-logo {
   margin-top: 10px;
   width: 220px;
-
 }
