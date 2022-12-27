@@ -99,7 +99,7 @@ html {
   font-family: "Roboto", sans-serif;
   font-size: 22px;
   color: #303746;
-  font-weight: lighter;
+  
   text-align: center;
   margin-top: 50px;
 }
@@ -111,11 +111,10 @@ html {
 }
 .inner {
   display: flex;
-  height: 100vh;
+  align-items: center;
+  height: 582px;
 
-  left: 0%;
-  right: 0%;
-  top: 0px;
+ 
 
   background: #4058ff;
   border-radius: 16px;
@@ -144,5 +143,7 @@ html {
   font-size: 15px;
   line-height: 29px;
 }
-.subject__content2 img {
+.subject__content {
+  height: 430px;
+ 
 }
