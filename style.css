@@ -170,8 +170,9 @@ html {
   display: flex;
 }
 .img-box {
-  width: 750px;
-  height: 500px;
+  width: 850px;
+  height: 520px;
+  margin-right: 40px;
 }
 .block {
   display: flex;
@@ -193,12 +194,17 @@ html {
   font-weight: 400;
   font-size: 24px;
   line-height: 28px;
-  margin-left: 130px;
+  margin-left: 70px;
+  color: #323947;
 }
  .info p {
+  margin-left: 50px;
   max-width: 250px;
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
+  line-height: 25px;
+  color: 
+  #656c7c;
  }
