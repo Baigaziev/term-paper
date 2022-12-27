@@ -150,10 +150,14 @@ color: #E8F1FF;
   
 }
 .subject__content .lead {
+  max-width: 250px;
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
   font-size: 17px;
   color: #E8F1FF;
 
+}
+.subject__content img {
+  
 }
