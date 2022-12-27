@@ -163,4 +163,8 @@ html {
   margin-top: 10px;
   width: 220px;
 }
+.box {
+  max-width: 1280px;
+  margin: 0 auto;
+}
 
