@@ -145,6 +145,7 @@ html {
 }
 .subject__content {
   height: 500px;
+  margin-left: 50px;
 }
 .subject__content .lead {
   max-width: 250px;
@@ -157,9 +158,7 @@ html {
 .subject__content2 img {
   margin-left: 150px;
 }
-.subject__content {
-  margin-left: 50px;
-}
+
 .subject__content .img-logo {
   margin-top: 10px;
   width: 220px;
