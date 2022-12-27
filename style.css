@@ -195,4 +195,7 @@ html {
   line-height: 28px;
   margin-left: 130px;
 }
-
+ .info p {
+  max-width: 250px;
+  
+ }
