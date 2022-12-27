@@ -148,6 +148,7 @@ color: #E8F1FF;
 .subject__content {
   height: 500px;
   
+  
 }
 .subject__content .lead {
   max-width: 250px;
@@ -158,6 +159,6 @@ color: #E8F1FF;
   color: #E8F1FF;
 
 }
-.subject__content img {
-  
+.subject__content2 img {
+  margin-left: 200px;
 }
