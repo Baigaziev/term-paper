@@ -126,6 +126,7 @@ html {
 
 .subject__content h2 {
   padding-top: 40px;
+  max-width: 350px;
 
   font-family: "Roboto";
   font-style: normal;
@@ -145,5 +146,6 @@ html {
 }
 .subject__content {
   height: 500px;
+  
  
 }
