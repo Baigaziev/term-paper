@@ -189,7 +189,7 @@ html {
 }
 .info h2 {
   max-width: 200px;
-  font-family: 'Roboto';
+  font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -197,14 +197,13 @@ html {
   margin-left: 70px;
   color: #323947;
 }
- .info p {
+.info p {
   margin-left: 50px;
   max-width: 250px;
-  font-family: 'Roboto';
+  font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
   line-height: 25px;
-  color: 
-  #656c7c;
- }
+  color: #656c7c;
+}
