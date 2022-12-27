@@ -185,5 +185,8 @@ html {
 .block .info {
   text-align: center;
   margin-top: 150px;
-  
 }
+.info h2 {
+  max-width: 200px;
+}
+
