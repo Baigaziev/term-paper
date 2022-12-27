@@ -167,10 +167,13 @@ html {
   max-width: 1280px;
   margin: 0 auto;
   margin-top: 70px;
+  display: flex;
 }
 .img-box {
   width: 750px;
   height: 500px;
 }
-
+.block {
+ 
+}
 
