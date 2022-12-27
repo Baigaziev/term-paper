@@ -198,4 +198,5 @@ html {
  .info p {
   max-width: 250px;
   font-family: 'Roboto';
+  font-style: normal;
  }
