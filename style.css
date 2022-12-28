@@ -209,14 +209,11 @@ html {
 }
 .article {
   display: flex;
-  
-
 }
 .cart.color1 {
- 
-height: 585px;
-background: rgba(255, 244, 245, 0.5);
-border-radius: 16px;
+  height: 585px;
+  background: rgba(255, 244, 245, 0.5);
+  border-radius: 16px;
 }
 .cart.color2 {
   height: 585px;
