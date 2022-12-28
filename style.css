@@ -207,3 +207,8 @@ html {
   line-height: 25px;
   color: #656c7c;
 }
+.article {
+  display: flex;
+  
+
+}
