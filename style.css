@@ -251,4 +251,7 @@ html {
 }
 .cart-text2 p {
   padding-left: 80px;
+  font-size: 19px;
+  color: rgba(18, 23, 34, 0.6);
+
 }
