@@ -215,10 +215,13 @@ html {
   background: rgba(255, 244, 245, 0.5);
   border-radius: 16px;
   margin-right: 170px;
-  padding-left: 50px;
+  padding-left: 90px;
 }
 .cart.color2 {
   height: 585px;
   background: rgba(255, 246, 228, 0.5);
   border-radius: 16px;
+  margin-left: -130px;
+  padding-right: 90px;
 }
+
