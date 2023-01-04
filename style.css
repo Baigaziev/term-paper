@@ -228,13 +228,12 @@ html {
 .cart-text1 h3 {
   padding-top: 50px;
   padding-right: 150px;
-  font-family: 'Roboto';
+  font-family: "Roboto";
   font-size: 20px;
   color: #2a2f38;
-  
 }
 .cart-text1 p {
-  font-family: 'Roboto';
+  font-family: "Roboto";
   font-size: 19px;
   color: rgba(18, 23, 34, 0.6);
   margin-top: -15px;
@@ -245,10 +244,9 @@ html {
 .cart-text2 h3 {
   padding-top: 50px;
   padding-left: 80px;
-  font-family: 'Roboto';
+  font-family: "Roboto";
   font-size: 20px;
   color: #2a2f38;
-  
 }
 .cart-text2 p {
   padding-left: 80px;
@@ -256,7 +254,6 @@ html {
   color: rgba(18, 23, 34, 0.6);
   margin-top: -15px;
   max-width: 650px;
-
 }
 .cart.color2 img {
   padding-left: 90px;
@@ -264,9 +261,14 @@ html {
 }
 .slogan {
   text-align: center;
-  font-family: 'Roboto';
+  font-family: "Roboto";
   margin-top: 80px;
- 
-  
+  line-height: 13px;
 }
-
+.slogan h2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  color: #121722;
+}
