@@ -211,14 +211,14 @@ html {
   display: flex;
 }
 .cart.color1 {
-  height: 585px;
+  height: 520px;
   background: rgba(255, 244, 245, 0.5);
   border-radius: 16px;
   margin-right: 170px;
   padding-left: 90px;
 }
 .cart.color2 {
-  height: 585px;
+  height: 520px;
   background: rgba(255, 246, 228, 0.5);
   border-radius: 16px;
   margin-left: -130px;
