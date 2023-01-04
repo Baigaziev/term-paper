@@ -272,3 +272,9 @@ html {
   font-size: 24px;
   color: #121722;
 }
+.slogan p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(56, 61, 71, 0.7);
+}
