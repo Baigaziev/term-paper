@@ -224,8 +224,9 @@ html {
   margin-left: -130px;
   padding-right: 90px;
 }
-.cart-text1  {
+.cart-text1 h3 {
   padding-top: 50px;
   padding-right: 150px;
+  font-family: 'Roboto';
   
 }
