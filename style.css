@@ -219,6 +219,7 @@ html {
 }
 .cart.color2 {
   height: 520px;
+  width: 620px;
   background: rgba(255, 246, 228, 0.5);
   border-radius: 16px;
   margin-left: -130px;
