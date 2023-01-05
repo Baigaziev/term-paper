@@ -294,10 +294,20 @@ html {
   font-weight: 400;
   font-size: 31px;
   color: #ffffff;
-  padding-top: 25%;
-  padding-left: 45px;
-  line-height: 25px;
+  padding-top: 40%;
+  line-height: 30px;
+  padding-right: 150px;
 }
+
 .box .information p {
-  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  color: #b9c0d5;
+  margin-top: -10px;
+}
+.item img {
+  margin-bottom: 65px;
+  margin-left: 30px;
 }
