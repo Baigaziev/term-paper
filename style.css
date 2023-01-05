@@ -288,3 +288,16 @@ html {
   background: #121722;
   border-radius: 16px;
 }
+.box .information h2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 31px;
+  color: #ffffff;
+  padding-top: 25%;
+  padding-left: 45px;
+  line-height: 25px;
+}
+.box .information p {
+  
+}
