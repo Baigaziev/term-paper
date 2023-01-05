@@ -278,3 +278,13 @@ html {
   font-size: 16px;
   color: rgba(56, 61, 71, 0.7);
 }
+.item {
+  width: 1280px;
+  height: 600px;
+  display: flex;
+  margin-top: 50px;
+  align-items: center;
+  margin-left: 80px;
+  background: #121722;
+  border-radius: 16px;
+}
