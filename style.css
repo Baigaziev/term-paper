@@ -311,3 +311,68 @@ html {
   margin-bottom: 65px;
   margin-left: 30px;
 }
+.cart.color3 {
+  height: 550px;
+  width: 1100px;
+  margin-right: 50px;
+
+  background: rgba(241, 245, 255, 0.5);
+  border-radius: 16px;
+}
+.cart.color4 {
+  height: 550px;
+  width: 1100px;
+  background: rgba(241, 245, 255, 0.5);
+  border-radius: 16px;
+}
+.cart-text3 {
+  padding-top: 50px;
+  padding-left: 60px;
+}
+.cart-text3 h3 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 5px;
+  color: #121722;
+}
+.cart-text3 p {
+  max-width: 380px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 21px;
+  color: rgba(18, 23, 34, 0.6);
+}
+.cart.color3 img {
+  padding-left: 60px;
+  padding-top: 40px;
+}
+.cart-text4 {
+  padding-top: 50px;
+  padding-left: 60px;
+}
+.cart-text4 h3 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 5px;
+  color: #121722;
+}
+.cart-text4 p {
+  max-width: 380px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 21px;
+  color: rgba(18, 23, 34, 0.6);
+}
+.cart.color4 img {
+  padding-left: 60px;
+  padding-top: 40px;
+}
+
