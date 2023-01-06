@@ -377,10 +377,29 @@ html {
 }
 
 .section {
-height: 590px;
-width: 1290px;
-margin-left: 70px;
-background: rgba(241, 245, 255, 0.5);
-border-radius: 16px;
+  height: 590px;
+  width: 1290px;
+  margin-left: 70px;
+  background: rgba(241, 245, 255, 0.5);
+  border-radius: 16px;
 }
-
+.section .cart-text h2 {
+  max-width: 300px;
+  padding-left: 70px;
+  padding-top: 50px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 25px;
+  color: #30343b;
+}
+.section .cart-text p {
+  padding-left: 70px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: rgba(18, 23, 34, 0.7);
+}
