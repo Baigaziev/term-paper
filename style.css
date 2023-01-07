@@ -483,5 +483,21 @@ html {
   line-height: 20px;
   color: rgba(88, 41, 41, 0.9);
 }
+.small-text {
+  line-height: 20px;
+}
+.btn {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 20px;
+color: #4058FF;
 
+background: #025fea
+10 %;
+border-radius: 100px;
+height: 30px;
+width: 165px;
+}
 
