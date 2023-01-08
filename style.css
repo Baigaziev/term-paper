@@ -497,3 +497,16 @@ html {
   height: 30px;
   width: 165px;
 }
+.box-cards {
+  max-width: 960px;
+  padding-top: 50px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-evenly;
+  
+  
+  
+}
+.cards {
+  
+}
