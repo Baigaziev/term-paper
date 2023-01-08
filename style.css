@@ -505,22 +505,21 @@ html {
   justify-content: space-evenly;
 }
 .cards .img-cards h3 {
-  font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 1px;
-color: #121722;
-margin-bottom: -20px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1px;
+  color: #121722;
+  margin-bottom: -20px;
 }
 .cards .img-cards p {
-  font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 4px;
-letter-spacing: 0.5px;
-text-transform: uppercase;
-color: rgba(28, 34, 47, 0.46);
-
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 4px;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: rgba(28, 34, 47, 0.46);
 }
