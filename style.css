@@ -523,3 +523,35 @@ html {
   text-transform: uppercase;
   color: rgba(28, 34, 47, 0.46);
 }
+.ending {
+  display: flex;
+  height: 346px;
+  max-width: 1280px;
+  margin-left: 75px;
+  margin-top: 90px;
+  background: #4058ff;
+  border-radius: 16px;
+}
+.box__content h2 {
+  margin: 0 auto;
+  padding-top: 30%;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  color: #ffffff;
+}
+.box__content button {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  color: #4058ff;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(18, 23, 34, 0.01);
+  border-radius: 100px;
+  height: 29px;
+  width: 120px;
+  margin-left: 75px;
+  margin-top: 10px;
+}
