@@ -11,22 +11,20 @@ html {
   margin-left: 70px;
   display: flex;
   justify-content: space-between;
-
   padding: 10px;
   background: rgba(255, 255, 255, 0.95);
   font-family: "Roboto", sans-serif;
 }
-.header__item.headerlogo img {
-}
+
 .header__item.headerButton a {
   text-decoration: none;
   color: rgba(18, 23, 34, 0.7);
 }
 .header__item.headerButton .text_border {
-  color: #949fe6;
-  background-color: #5d95e9;
-
-  border-radius: 40px;
+  color: #4058FF;
+  background-color: #408cff;
+  background: rgba(64, 140, 255, 0.1);
+  border-radius: 20px;
 }
 .header__item.headerButton .dark_text {
   text-decoration: none;
@@ -557,4 +555,49 @@ html {
 }
 .footer {
   display: flex;
+  flex-wrap: wrap;
+}
+.img-logo {
+  margin-left: 50px;
+  margin-top: 15px;
+}
+.img-logo p {
+  margin-top: -px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  color: rgba(18, 23, 34, 0.7);
+}
+.footer-text1 {
+  margin-left: 100px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  color: #121722;
+}
+.footer-text2 {
+  margin-left: 200px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+
+  color: #121722;
+}
+.footer-text3 {
+  margin-left: 200px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  color: #121722;
+}
+.img-cards:hover {
+  transform: scale(1.1);
+  
 }
