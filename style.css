@@ -2,14 +2,20 @@
 * {
   box-sizing: border-box;
 }
-body,
+
 html {
   margin: 0;
 }
 
+@media  screen and (max-width: 1200px) {
+  body {
+
+  }
+}
 .header {
   margin-left: 70px;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   padding: 10px;
   background: rgba(255, 255, 255, 0.95);
@@ -21,10 +27,10 @@ html {
   color: rgba(18, 23, 34, 0.7);
 }
 .header__item.headerButton .text_border {
-  color: #4058FF;
-  background-color: #408cff;
-  background: rgba(64, 140, 255, 0.1);
-  border-radius: 20px;
+  color: #4058ff;
+
+  background-color: rgba(64, 140, 255, 0.1);
+  border-radius: 100px;
 }
 .header__item.headerButton .dark_text {
   text-decoration: none;
@@ -37,6 +43,7 @@ html {
 
 .header__section {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
 }
 .header__item {
@@ -46,6 +53,7 @@ html {
 .container {
   max-width: 1200px;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   width: 100%;
 }
@@ -490,9 +498,9 @@ html {
   font-size: 14px;
   line-height: 20px;
   color: #4058ff;
-  background: #c4d3ea 10%;
+  background: rgba(64, 140, 255, 0.1);
   border-radius: 100px;
-  height: 30px;
+  height: 40px;
   width: 165px;
 }
 .box-cards {
@@ -599,5 +607,4 @@ html {
 }
 .img-cards:hover {
   transform: scale(1.1);
-  
 }
