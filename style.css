@@ -432,7 +432,7 @@ html {
   font-size: 11px;
   letter-spacing: 0.5px;
   text-transform: uppercase;
-  color: #8d2525;
+  color: #fefefe;
 }
 .section .cart-img1 .paragraph1 {
   font-family: "Roboto";
@@ -441,7 +441,9 @@ html {
   font-size: 11px;
   letter-spacing: 0.5px;
   text-transform: uppercase;
-  color: #10d61d;
+  
+color: #FFFFFF;
+
 }
 .section .cart-img1 h2 {
   max-width: 200px;
@@ -450,7 +452,9 @@ html {
   font-weight: 400;
   font-size: 25px;
   line-height: 25px;
-  color: #4f1414;
+  
+color: #FFFFFF;
+
 }
 .section .cart-img1 p {
   max-width: 220px;
@@ -459,7 +463,9 @@ html {
   font-weight: 400;
   font-size: 15px;
   line-height: 20px;
-  color: rgba(88, 41, 41, 0.9);
+  
+color: #FFFFFF;
+
 }
 .section .cart-img1 .small {
   font-family: "Roboto";
@@ -467,7 +473,9 @@ html {
   font-weight: 400;
   font-size: 13px;
   line-height: 20px;
-  color: rgba(88, 41, 41, 0.9);
+ 
+color: #FFFFFF;
+
 }
 .section .cart-img2 .paragraph2 {
   font-family: "Roboto";
@@ -476,7 +484,9 @@ html {
   font-size: 11px;
   letter-spacing: 0.5px;
   text-transform: uppercase;
-  color: #10d61d;
+  
+color: #FFFFFF;
+
 }
 .section .cart-img2 h2 {
   max-width: 190px;
@@ -485,7 +495,9 @@ html {
   font-weight: 400;
   font-size: 25px;
   line-height: 25px;
-  color: #4f1414;
+  
+color: #FFFFFF;
+
 }
 .section .cart-img2 p {
   max-width: 220px;
@@ -494,7 +506,9 @@ html {
   font-weight: 400;
   font-size: 15px;
   line-height: 20px;
-  color: rgba(88, 41, 41, 0.9);
+ 
+color: #FFFFFF;
+
 }
 .section .cart-img2 .small {
   font-family: "Roboto";
@@ -502,7 +516,9 @@ html {
   font-weight: 400;
   font-size: 13px;
   line-height: 20px;
-  color: rgba(88, 41, 41, 0.9);
+ 
+color: #FFFFFF;
+
 }
 .small-text {
   line-height: 20px;
