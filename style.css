@@ -386,6 +386,12 @@ html {
   background: rgba(241, 245, 255, 0.5);
   border-radius: 16px;
 }
+
+.section .cart-img1 {
+  background: #4058FF;
+
+
+}
 .section .cart-text h2 {
   max-width: 300px;
   padding-left: 70px;
