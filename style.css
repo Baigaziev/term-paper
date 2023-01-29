@@ -391,6 +391,8 @@ html {
   height: 430px;
   width: 330px;
   margin-top: 90px;
+  padding-top: 70px;
+  padding-left: 40px;
 }
 .section .cart-img2 {
   background: #4058ff;
@@ -399,6 +401,8 @@ html {
   width: 330px;
   margin-top: 90px;
   margin-left: 60px;
+  padding-top: 70px;
+  padding-left: 40px;
 }
 
 .section .cart-text h2 {
