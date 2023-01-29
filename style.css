@@ -241,7 +241,6 @@ html {
 }
 .cart.color1 img {
   margin-top: 45px;
- 
 }
 .cart-text2 h3 {
   padding-top: 50px;
@@ -376,7 +375,6 @@ html {
 .cart.color4 img {
   padding-left: 60px;
   padding-top: 40px;
- 
 }
 
 .section {
@@ -388,22 +386,19 @@ html {
 }
 
 .section .cart-img1 {
-  background: #4058FF;
+  background: #4058ff;
   border-radius: 16px;
-height: 430px;
-width: 330px;
-margin-top: 90px;
-
-
+  height: 430px;
+  width: 330px;
+  margin-top: 90px;
 }
 .section .cart-img2 {
-  
-  background: #4058FF;
+  background: #4058ff;
   border-radius: 16px;
-height: 430px;
-width: 330px;
-margin-top: 90px;
-margin-left: 60px;
+  height: 430px;
+  width: 330px;
+  margin-top: 90px;
+  margin-left: 60px;
 }
 
 .section .cart-text h2 {
