@@ -22,10 +22,8 @@ html {
   color: rgba(18, 23, 34, 0.7);
 }
 .header__item.headerButton .text_border {
-  color: #4058ff;
-
-  background-color: rgba(64, 140, 255, 0.1);
-  border-radius: 100px;
+  background: rgba(64, 140, 255, 0.1);
+  border-radius: 20px;
 }
 .header__item.headerButton .dark_text {
   text-decoration: none;
@@ -63,8 +61,7 @@ html {
   align-items: center;
   margin-top: 70px;
 }
-.button {
-}
+
 .title {
   max-width: 300px;
 }
@@ -443,9 +440,8 @@ html {
   font-size: 11px;
   letter-spacing: 0.5px;
   text-transform: uppercase;
-  
-color: #FFFFFF;
 
+  color: #ffffff;
 }
 .section .cart-img1 h2 {
   max-width: 200px;
@@ -454,9 +450,8 @@ color: #FFFFFF;
   font-weight: 400;
   font-size: 25px;
   line-height: 25px;
-  
-color: #FFFFFF;
 
+  color: #ffffff;
 }
 .section .cart-img1 p {
   max-width: 220px;
@@ -465,9 +460,8 @@ color: #FFFFFF;
   font-weight: 400;
   font-size: 15px;
   line-height: 20px;
-  
-color: #FFFFFF;
 
+  color: #ffffff;
 }
 .section .cart-img1 .small {
   font-family: "Roboto";
@@ -475,9 +469,8 @@ color: #FFFFFF;
   font-weight: 400;
   font-size: 13px;
   line-height: 20px;
- 
-color: #FFFFFF;
 
+  color: #ffffff;
 }
 .section .cart-img2 .paragraph2 {
   font-family: "Roboto";
@@ -486,9 +479,8 @@ color: #FFFFFF;
   font-size: 11px;
   letter-spacing: 0.5px;
   text-transform: uppercase;
-  
-color: #FFFFFF;
 
+  color: #ffffff;
 }
 .section .cart-img2 h2 {
   max-width: 190px;
@@ -497,9 +489,8 @@ color: #FFFFFF;
   font-weight: 400;
   font-size: 25px;
   line-height: 25px;
-  
-color: #FFFFFF;
 
+  color: #ffffff;
 }
 .section .cart-img2 p {
   max-width: 220px;
@@ -508,9 +499,8 @@ color: #FFFFFF;
   font-weight: 400;
   font-size: 15px;
   line-height: 20px;
- 
-color: #FFFFFF;
 
+  color: #ffffff;
 }
 .section .cart-img2 .small {
   font-family: "Roboto";
@@ -518,9 +508,8 @@ color: #FFFFFF;
   font-weight: 400;
   font-size: 13px;
   line-height: 20px;
- 
-color: #FFFFFF;
 
+  color: #ffffff;
 }
 .small-text {
   line-height: 20px;
