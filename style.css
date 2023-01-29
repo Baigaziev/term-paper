@@ -7,11 +7,8 @@ html {
   margin: 0;
 }
 
-@media  screen and (max-width: 1200px) {
-  body {
 
-  }
-}
+
 .header {
   margin-left: 70px;
   display: flex;
@@ -246,6 +243,7 @@ html {
 }
 .cart.color1 img {
   margin-top: 45px;
+ 
 }
 .cart-text2 h3 {
   padding-top: 50px;
@@ -380,6 +378,7 @@ html {
 .cart.color4 img {
   padding-left: 60px;
   padding-top: 40px;
+ 
 }
 
 .section {
